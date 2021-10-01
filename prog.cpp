@@ -1,3 +1,4 @@
+concept: alternate sorting means to first include lowest element followed by greatest then second smallest and so on 
 vector<int> alternateSort(int arr[], int N)
 	{
 	    vector<int> vect;
